@@ -5,8 +5,8 @@
         <p class="float-end mb-1">
           <a href="#">Volver arriba</a>
         </p>
-        <p class="mb-1 text-white">Blog completo en PHP 8 y Mysql parte del curso MASTER EN PHP 7 y 8</p>
-        <p class="mb-0 text-white">Desarrollado por:<a href="https://youtube.com/render2web"> render2web</a></p>
+        <p class="mb-1 text-white">Blog</p>
+        <p class="mb-0 text-white">Desarrollado por:<a href="https://github.com/manuelduarte077"> Manuel Duarte</a></p>
       </div>
   </footer>
 
