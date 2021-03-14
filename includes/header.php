@@ -27,7 +27,7 @@
 
     <link rel="stylesheet" href="../css/estilos.css">
 
-    <title>Blog PHP 8</title>
+    <title>Blog PHP</title>
   </head>
   <body>
     
