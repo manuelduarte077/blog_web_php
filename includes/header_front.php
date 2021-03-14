@@ -100,6 +100,7 @@ session_start();
     </div>
   </nav>
 
+
   <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
     <ol class="carousel-indicators">
       <li data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"></li>
@@ -138,5 +139,8 @@ session_start();
       <span class="visually-hidden">Next</span>
     </a>
   </div>
+
+
+
 
   <div class="container mt-5">
